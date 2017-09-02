@@ -21,4 +21,4 @@ delinq.2yrs: The number of times the borrower had been 30+ days past due on a pa
 pub.rec: The borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).
 
 
-I order to view the html file of the python notebook please go to: http://htmlpreview.github.io/?https://github.com/agujral/Lending_Club_Dataset/blob/master/Lending_club.html
+
